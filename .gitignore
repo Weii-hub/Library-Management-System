@@ -1,0 +1,15 @@
+## [Visual Studio / .NET / Node]
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+node_modules/
+dist/
+.vs/
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
