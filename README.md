@@ -4,8 +4,7 @@
 > **Trường**: Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)  
 > **Nhóm thực hiện**: Nhóm sinh viên Công nghệ phần mềm  
 > **Thành viên**:
-> * **Nguyễn Hoàng Phúc** - MSSV: 24DH111453 (GitHub: [@Weii-hub](https://github.com/Weii-hub))
-> * **Đào Tuấn Phúc** - MSSV: 24DH113351 (GitHub: [@yassua](https://github.com/yassua))
+> * **Đào Tuấn Phúc** - MSSV: 24DH113351 (GitHub: [@Weii-hub](https://github.com/Weii-hub))
 
 ---
 
